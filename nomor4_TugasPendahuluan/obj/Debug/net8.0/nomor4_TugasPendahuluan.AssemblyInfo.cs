@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nomor4_TugasPendahuluan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed644d49d3185a1672194f395122dab1fbd9d5ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d7b068e972fe7f8c53a6d168778b63b7a56779")]
 [assembly: System.Reflection.AssemblyProductAttribute("nomor4_TugasPendahuluan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nomor4_TugasPendahuluan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

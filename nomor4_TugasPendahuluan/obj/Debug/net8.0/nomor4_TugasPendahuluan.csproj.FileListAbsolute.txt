@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.AssemblyInfo.cs
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.sourcelink.json
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\bin\Debug\net8.0\nomor4_TugasPendahuluan.exe
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\bin\Debug\net8.0\nomor4_TugasPendahuluan.deps.json
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\bin\Debug\net8.0\nomor4_TugasPendahuluan.runtimeconfig.json
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\bin\Debug\net8.0\nomor4_TugasPendahuluan.dll
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\bin\Debug\net8.0\nomor4_TugasPendahuluan.pdb
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.dll
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\refint\nomor4_TugasPendahuluan.dll
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.pdb
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\nomor4_TugasPendahuluan.genruntimeconfig.cache
+C:\Users\USER\source\repos\nomor4_TugasPendahuluan\nomor4_TugasPendahuluan\obj\Debug\net8.0\ref\nomor4_TugasPendahuluan.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nomor4_TugasPendahuluan/1.0.0": {
+        "runtime": {
+          "nomor4_TugasPendahuluan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nomor4_TugasPendahuluan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
